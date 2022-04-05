@@ -10,7 +10,7 @@ export default function About() {
             <br className="hidden lg:inline-block" />I’m passionate about system administration. 
           </h1>
           <p className="mb-8 leading-relaxed">
-          I graduated from BlueCrest University College/NIIT with a Professional Diploma in Information Technology. I’m currently pursuing a bachelor’s degree in computer science, and an associate in computer systems networking and telecommunications. 
+          I graduated from BlueCrest University College/NIIT with a Professional Diploma in Information Technology. I’m currently pursuing a bachelor’s degree in computer science. 
 
           </p>
           <div className="flex justify-center">
