@@ -37,7 +37,7 @@ export default function Contact() {
             marginHeight={0}
             marginWidth={0}
             style={{ filter: "opacity(0.7)" }}
-            src="https://www.google.com/maps/place/Omega+Tower,+Liberia/@6.3140627,-10.6664117,1886m/data=!3m1!1e3!4m5!3m4!1s0xf09ff82541cc2e1:0xa28ff32050510c30!8m2!3d6.3055731!4d-10.6622314?hl=en-US"
+            src="https://www.google.com/maps/@6.311977,-10.667776,939m/data=!3m1!1e3?hl=en"
           />
           <div className="bg-gray-900 relative flex flex-wrap py-6 rounded shadow-md">
             <div className="lg:w-1/2 px-6">

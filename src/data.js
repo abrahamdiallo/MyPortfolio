@@ -1,35 +1,35 @@
 export const projects = [
   {
-    title: "Windows Servers",
+    title: "Windows Server",
     subtitle: "",
     description:
       "This category takes you to my windows server project",
-    image: "./server.jpeg",
-    link: "https://web.facebook.com/watch/360297650791697/700308097661247/",
+    image: "./win-server.jpg",
+    link: "https://sites.google.com/view/server-project/home",
   },
   {
     title: "Computer Networking",
-    subtitle: "Coming Soon!",
+    subtitle: "",
     description:
       "This category takes you to my networking project",
-    image: "./networks.jpg",
-    link: "https://example.com",
+    image: "./networking1.png",
+    link: "https://sites.google.com/view/computer-network-project/home",
   },
   {
     title: "I.T Support",
-    subtitle: "Coming Soon!",
+    subtitle: "",
     description:
       "This category takes you to my compTIA A+ videos ",
-    image: "./itsupport.jpg",
-    link: "https://example.com",
+    image: "./support.jpg",
+    link: "https://sites.google.com/view/technical-projects/home",
   },
   {
     title: "MySql",
-    subtitle: "Coming Soon!",
+    subtitle: "",
     description:
       "This category takes you to MySql projects",
     image: "./mysql.jpg",
-    link: "https://example.com",
+    link: "https://sites.google.com/view/mysql-project/home",
   },
 ];
 

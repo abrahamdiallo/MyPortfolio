@@ -10,7 +10,8 @@ export default function About() {
             <br className="hidden lg:inline-block" />I’m passionate about system administration. 
           </h1>
           <p className="mb-8 leading-relaxed">
-          I graduated from BlueCrest University College/NIIT with a Professional Diploma in Information Technology. I’m currently pursuing a bachelor’s degree in computer science. 
+          I graduated from BlueCrest University College/NIIT with a Professional Diploma in Information Technology in October 20219. I’m a senior student currently pursuing a bachelor’s degree in computer science at Weifang University.
+I have a certification from LinkedIn in Windows Server Essential Training and MySql Essential Training. I have always had an interest in the System Administration field. I would love to get a job in one of these relevant job references: I.T Assistant. Server Assistant. Windows Server Administrator. Help Desk Technician. Desktop Support Technician.
 
           </p>
           <div className="flex justify-center">
