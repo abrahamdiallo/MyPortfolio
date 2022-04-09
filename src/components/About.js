@@ -33,7 +33,7 @@ I have a certification from LinkedIn in Windows Server Essential Training and My
           <img
             className="object-cover object-center rounded"
             alt="hero"
-            src="./my photo.png"
+            src="./profile1.png"
           />
         </div>
       </div>
