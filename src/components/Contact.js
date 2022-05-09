@@ -74,6 +74,8 @@ export default function Contact() {
           </h2>
           <p className="leading-relaxed mb-5">
             Job preferences: I.T Assistant. Server Assistant. Windows Server Administrator. Help Desk Technician. Desktop Support Technician.
+
+            Note: The hire me section is not working. Please send me a mail directly to my email instead of using the hire me section. 
           </p>
           <div className="relative mb-4">
             <label htmlFor="name" className="leading-7 text-sm text-gray-400">
