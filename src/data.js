@@ -3,7 +3,7 @@ export const projects = [
     title: "Windows Server",
     subtitle: "",
     description:
-      "This category takes you to my windows server project",
+      "This category takes you to my windows server project. Click here to see all my Windows Server related videos.",
     image: "./win-server.jpg",
     link: "https://sites.google.com/view/server-project/home",
   },
@@ -11,7 +11,7 @@ export const projects = [
     title: "Computer Networking",
     subtitle: "",
     description:
-      "This category takes you to my networking project",
+      "This category takes you to my networking project. Click here to see all my Computer Networking related videos.",
     image: "./networking1.png",
     link: "https://sites.google.com/view/computer-network-project/home",
   },
@@ -19,7 +19,7 @@ export const projects = [
     title: "I.T Support",
     subtitle: "",
     description:
-      "This category takes you to my compTIA A+ videos ",
+      "This category takes you to my I.T Support videos. Click here to see all my I.T Support related videos.",
     image: "./support.jpg",
     link: "https://sites.google.com/view/technical-projects/home",
   },
@@ -27,7 +27,7 @@ export const projects = [
     title: "MySql",
     subtitle: "",
     description:
-      "This category takes you to MySql projects",
+      "This category takes you to MySql projects. Click here to see all MySQL related videos.",
     image: "./mysql.jpg",
     link: "https://sites.google.com/view/mysql-project/home",
   },
